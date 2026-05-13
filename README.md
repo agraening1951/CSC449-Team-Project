@@ -6,4 +6,5 @@ FOR an airline WHO needs a seat reservation management system, Group 1 Reservati
 # Sprint Planning Meeting (Week 1)
 Our team met to plan the sprint and create user stories, functions, priorities, and iterations.
 # Sprint Planning Meeting (Week 3)
+Created initial Spring Boot functionality  
 Added unit test for displaying reservation details and unit test for seat reservation.
