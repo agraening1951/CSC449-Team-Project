@@ -8,3 +8,4 @@ Our team met to plan the sprint and create user stories, functions, priorities, 
 # Sprint Planning Meeting (Week 3)
 Created initial Spring Boot functionality  
 Added unit test for displaying reservation details and unit test for seat reservation.
+Added the classes and tests for the pricing options (services) and manage (update) pricing features in our project.
